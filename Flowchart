@@ -1,0 +1,11 @@
+Start
+  ↓
+Read Potentiometer Value
+  ↓
+Map Value to PWM Range
+  ↓
+Send PWM to Motor Driver
+  ↓
+Motor Speed Changes
+  ↓
+Repeat
